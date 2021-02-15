@@ -1,8 +1,8 @@
 {
   "dependencies": {
-    "aws-sdk": "~2.5.2",
-    "bluebird": "~3.4.1",
-    "extend": "~3.x"
+    "aws-sdk": "^2.843.0",
+    "bluebird": "^3.7.2",
+    "extend": "^3.0.2"
   },
   "deprecated": false,
   "description": "Implementation of Node.JS FS interface using Amazon Simple Storage Service (S3).",
@@ -13,10 +13,8 @@
     "dirty-chai": "~1.2.2",
     "eslint": "~7.4.0",
     "istanbul": "~0.4.5",
-    "jscs": "~3.0.7",
     "jsinspect": "~0.x",
-    "mocha": "~3.0.2",
-    "nsp": "~2.6.1",
+    "mocha": "^8.3.0",
     "through2": "~2.x"
   },
   "homepage": "http://github.com/hasnat/s3fs",
